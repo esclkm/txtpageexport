@@ -1,0 +1,10 @@
+<!-- BEGIN: MAIN -->
+
+"item_code"	"name"	"headline"	"abstract"	"info"	"price"	"status"	"url"	"image"	"icon"	"type_id"
+
+<!-- BEGIN: ROW -->
+{SEP}"{EXP_ROW_ID}"	"{SHOP_ROW_TITLE}"	"{SHOP_ROW_TITLE}"	"{SHOP_ROW_NOHTMLDESC}"	"{SHOP_ROW_NOHTMLDESC}"	"{SHOP_ROW_PRICE}"	"1"	"http://www.muz.by/page.php?id={SHOP_ROW_ID}"	"<!-- IF {SHOP_ROW_IMG} -->{SHOP_ROW_IMG}<!-- ENDIF -->"	"<!-- IF {SHOP_ROW_IMG} -->thumb_{SHOP_ROW_IMG}<!-- ENDIF -->"	"{SHOP_ROW_CODE1}"
+<!-- END: ROW -->
+
+
+<!-- END: MAIN -->
